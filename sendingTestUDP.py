@@ -4,9 +4,9 @@
 
 import socket
 
-UDP_IP="10.0.1.17"
+UDP_IP="10.0.0.55"
 UDP_PORT=5005
-MESSAGE="hello world"
+MESSAGE="hi ali!!!!!"
 
 print "UDP target ip: ",UDP_IP
 print "UDP target port: ", UDP_PORT
